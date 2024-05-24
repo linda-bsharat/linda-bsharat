@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **UI/UX Design**
 
-- 📫 How to reach me **lindabsharat@gmail.com**
+- 📫 How to reach me **lindabsharat45@gmail.com**
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing)](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
