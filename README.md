@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **An Najah National University**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **CCNA**
 
 - 💬 Ask me about **UI/UX Design**
 
