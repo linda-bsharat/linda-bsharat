@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend developer from Palestine</h3>
 <img style="float: right;" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 <p align="left"> 
-
+<img src="/OsamaBsharat/OsamaBsharat/raw/main/github-header-image%20(1).png">
 - 🔭 I’m currently studying at **An Najah National University**
 
 - 🌱 I’m currently learning **CCNA**
