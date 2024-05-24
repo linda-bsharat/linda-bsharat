@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lindabsharat@gmail.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing](https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing)](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)]
+- 📄 Know about my experiences [(https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing)](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/osama-bsharat-910690175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-bsharat-910690175" height="30" width="40" /></a>
