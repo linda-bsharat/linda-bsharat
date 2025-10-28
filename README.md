@@ -1,16 +1,18 @@
 ![Header](./linda2.png)
 <h1 align="center">Hi 👋, I'm Linda Bsharat</h1>
-<h3 align="center">A passionate Frontend developer from Palestine</h3>
+<h3 align="center">💻 Junior Cybersecurity Engineer | Cloud & DevOps Enthusiast | UI/UX-minded Developer</h3>
 <img style="float: right;" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 <p align="left"> 
 
-- 🔭 I’m currently studying at **An Najah National University**
+- 🔭 Graduated from **An Najah National University**
 
-- 🌱 I’m currently learning **CCNA**
+- 🔐 Passionate about securing systems, analyzing malware, and automating cloud workflows.
 
-- 💬 Ask me about **UI/UX Design**
+- ☁️ Experienced with AWS (Ampify, Lex, Lambda, Cognito, AppSync) and CI/CD pipelines.
 
-- 📫 How to reach me **lindabsharat45@gmail.com**
+- 🎨 I enjoy designing intuitive interfaces that merge usability with security.  
+
+- 📫 Reach me at **lindabsharat@gmail.com** 
 
 - 📄 Know about my experiences [(https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing)](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)]
 <h3 align="left">Connect with me:</h3>
