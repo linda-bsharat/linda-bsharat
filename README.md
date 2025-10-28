@@ -17,7 +17,7 @@
 - 📫 Reach me at **lindabsharat@gmail.com**  
 - 📄 [View my Resume](https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)
 
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
