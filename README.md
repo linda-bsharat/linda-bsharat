@@ -3,21 +3,19 @@
 <h1 align="center">Hi 👋, I'm Linda Bsharat</h1>
 <h3 align="center">💻 Junior Cybersecurity Engineer | Cloud & DevOps Enthusiast | UI/UX-minded Developer</h3>
 
-<img style="float: right;" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+<p align="center">
+  <img alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+</p>
 
-<p align="left"> 
+---
 
-- 🔭 Graduated from **An Najah National University**
-
-- 🔐 Passionate about securing systems, analyzing malware, and automating cloud workflows.
-
-- ☁️ Experienced with AWS (Amplify, Lex, Lambda, Cognito, AppSync) and CI/CD pipelines.
-
-- 🎨 I enjoy designing intuitive interfaces that merge usability with security.  
-
-- 📫 Reach me at **lindabsharat@gmail.com**
-
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)
+### 🧠 About Me
+- 🎓 Graduated from **An-Najah National University**, majoring in Network & Information Security.  
+- 🔐 Passionate about securing systems, analyzing malware, and automating cloud workflows.  
+- ☁️ Experienced with **AWS** (Amplify, Lex, Lambda, Cognito, AppSync) and **CI/CD pipelines**.  
+- 🎨 Enjoy designing intuitive interfaces that merge usability with security.  
+- 📫 Reach me at **lindabsharat@gmail.com**  
+- 📄 [View my Resume](https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)
 
 </p>
 
