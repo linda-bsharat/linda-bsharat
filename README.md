@@ -17,7 +17,7 @@
 
 - 📫 Reach me at **lindabsharat@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)
 
 </p>
 
