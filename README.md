@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **lindabsharat@gmail.com** 
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/1QTUmXFpTYVbvfhbjfvpu9CwtZ_2oz3Nm/view?usp=sharing)](https://drive.google.com/file/d/1kXHWZNUwBOJjxLNA2IkaYqL6rH-iQ2rU/view?usp=sharing)]
+- 📄 Know about my experiences [(https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lindabsharat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lindabsharat-910690175" height="30" width="40" /></a>
