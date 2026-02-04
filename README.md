@@ -1,4 +1,4 @@
-![Header]()
+
 
 <h1 align="center">Hi 👋, I'm Linda Bsharat</h1>
 <h3 align="center">💻 Junior Cybersecurity Engineer | Cloud & DevOps Enthusiast | UI/UX-minded Developer</h3>
@@ -15,7 +15,7 @@
 - ☁️ Experienced with **AWS** (Amplify, Lex, Lambda, Cognito, AppSync) and **CI/CD pipelines**.  
 - 🎨 Enjoy designing intuitive interfaces that merge usability with security.  
 - 📫 Reach me at **lindabsharat@gmail.com**  
-- 📄 [View my Resume](https://drive.google.com/drive/u/0/my-drive?q=after:2025-10-28%20parent:0AB0IiP-1vvXwUk9PVA)
+- 📄 [View my Resume](https://drive.google.com/file/d/1mzuTJVr2Gb9VabVeCt33CbOHnKqNap_F/view?usp=sharing)
 
 
 
@@ -56,8 +56,4 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lindabsharat&show_icons=true&locale=en&layout=compact" alt="lindabsharat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lindabsharat&show_icons=true&locale=en" alt="lindabsharat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lindabsharat" alt="lindabsharat" /></p>
