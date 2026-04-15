@@ -11,10 +11,13 @@
 
 ### 🧠 About Me
 - 🎓 Graduated from **An-Najah National University**, majoring in Network & Information Security.  
-- 🔐 Passionate about securing systems, analyzing malware, and automating cloud workflows.  
-- ☁️ Experienced with **AWS** (Amplify, Lex, Lambda, Cognito, AppSync) and **CI/CD pipelines**.  
-- 🎨 Enjoy designing intuitive interfaces that merge usability with security.  
-- 📫 Reach me at **lindabsharat@gmail.com**  
+- 🔐 Passionate about cybersecurity, including system security, vulnerability analysis, and ethical hacking.  
+- 🐍 Completed an intensive **Python & Machine Learning Bootcamp**, gaining hands-on experience in data analysis, model building, and prediction systems.  
+- 🤖 Built ML models using **Pandas, NumPy, Scikit-learn**, and worked on real-world datasets.  
+- ☁️ Experienced with **AWS** (Amplify, Lex, Lambda, Cognito, AppSync) and building serverless applications.  
+- ⚙️ Familiar with **CI/CD pipelines**, Docker, and cloud-based deployments.  
+- 🎨 Interested in UI/UX design and creating secure, user-friendly applications.  
+- 📫 Reach me at **lindabsharat@gmail.com** 
 - 📄 [View my Resume](https://drive.google.com/file/d/1mzuTJVr2Gb9VabVeCt33CbOHnKqNap_F/view?usp=sharing)
 
 
