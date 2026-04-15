@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Linda Bsharat</h1>
-<h3 align="center">💻 Junior Cybersecurity Engineer | Cloud & DevOps Enthusiast | Data Analyst & Machine Learning</h3>
+<h3 align="center">💻 Junior Cybersecurity Engineer | Cloud & DevOps Enthusiast | Data Science & Machine Learning</h3>
 
 <p align="center">
   <img alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
@@ -12,7 +12,7 @@
 ### 🧠 About Me
 - 🎓 Graduated from **An-Najah National University**, majoring in Network & Information Security.  
 - 🔐 Passionate about cybersecurity, including system security, vulnerability analysis, and ethical hacking.  
-- 🐍 Completed an intensive **Data Analyst & Machine Learning Bootcamp**, gaining hands-on experience in data analysis, model building, and prediction systems.  
+- 🐍 Completed an intensive **Data Science & Machine Learning Bootcamp**, gaining hands-on experience in data analysis, model building, and prediction systems.  
 - 🤖 Built ML models using **Pandas, NumPy, Scikit-learn**, and worked on real-world datasets. 
 - ☁️ Experienced with **AWS** (Amplify, Lex, Lambda, Cognito, AppSync) and building serverless applications.  
 - ⚙️ Familiar with **CI/CD pipelines**, Docker, and cloud-based deployments.  
